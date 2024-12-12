@@ -1,4 +1,3 @@
-
 #X-> N(mu, sigma^2), mu desconido
 
 ## TEMA 7
