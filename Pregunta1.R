@@ -49,3 +49,5 @@ t.test(x, conf.level = 0.99)
 ##Apartado AC3: H0: mu0= 500
 #H1: mu0!= 500
 t.test(x, conf.level = 0.99, mu=mu0)
+
+###para la varianza var.test
